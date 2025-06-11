@@ -1,6 +1,5 @@
 ﻿@typeparam TItem
-@typeparam-TItem
-<!-- Commento -->
+
 
 @if (!string.IsNullOrWhiteSpace(ErrorMessage))
 {
